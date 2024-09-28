@@ -40,3 +40,7 @@ The script will generate an interactive chart showing:
 - **Candlestick chart** of the Bitcoin price from January 1, 2024, to the current date.
 - **30-day moving average** plotted over the candlestick chart.
 
+## **📜 License**
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
