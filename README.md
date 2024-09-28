@@ -19,7 +19,7 @@ This project is a simple Python script (`btc.py`) that fetches historical Bitcoi
 
 ### **1. Clone the Repository:**
 ```bash
-git clone https://github.com/yourusername/btc-crypto-analysis.git
+git clone https://github.com/Lakshya1726/btc-crypto-analysis.git
 cd btc-crypto-analysis
 ```
 ### **2. Install the Required Dependencies:**
