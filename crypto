@@ -1,0 +1,27 @@
+---
+name: "Crypto-related request"
+about: Submit a request or report an issue related to cryptocurrency analysis
+title: "[CRYPTO] "
+labels: crypto
+assignees: ''
+
+---
+
+**Describe the request**
+A clear and concise description of your request or issue related to cryptocurrency analysis.
+
+**Expected outcome**
+A clear and concise description of what you expect to achieve or resolve.
+
+**Steps to reproduce**
+Steps to reproduce the behavior or issue:
+1. Go to '...'
+2. Click on '...'
+3. Scroll down to '...'
+4. See result or issue
+
+**Screenshots**
+If applicable, add screenshots to help explain your request or issue.
+
+**Additional context**
+Add any other context or information about the request or issue here.
